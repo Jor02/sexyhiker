@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Sexyhiker": {
+      "commandName": "Project",
+      "commandLineArgs": "sexyhiking.exe -v -o sexy.gmd",
+    }
+  }
+}

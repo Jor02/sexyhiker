@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Jor02</Authors>
+    <Description>A decompiler for Sexy Hiking</Description>
+    <Copyright></Copyright>
+    <RepositoryUrl>https://github.com/Jor02/sexyhiker</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Jor02/sexyhiker</PackageProjectUrl>
+    <NeutralLanguage>en-US</NeutralLanguage>
+  </PropertyGroup>
+
+</Project>
