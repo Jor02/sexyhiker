@@ -9,3 +9,6 @@
 There are two ways to use this tool:
 - Drag and drop `sexyhiking.exe` on top of `sexyhiker.exe`
 - Run the program in command line: `sexyhiker.exe FILE [options]` (`sexyhiker.exe "sexyhiking.exe" -v`)
+
+# Credits
+- Thanks to Woahbust for the great Jim model!
