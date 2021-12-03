@@ -1,4 +1,4 @@
-![image](./SexyhikerBanner.png)
+![image](./SexyhikerBanner2.png)
 
 # Sexyhiker
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Jor02/sexyhiker?style=flat-square&color=brightgreen)
